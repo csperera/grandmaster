@@ -1,6 +1,6 @@
 # GrandMaster
 
-**GrandMaster** is a Quantitative Risk Management (QRM) and Decision Support System (DSS) designed to model complex scenarios through probabilistic tree analysis. It allows users to map out potential outcomes, assign financial or numerical payoffs, and determine the optimal path using Expected Value (EV) optimization.
+**GrandMaster** is a Quantitative Risk Management (QRM) and Decision Support System (DSS) tool designed to model complex scenarios through probabilistic tree analysis. It allows users to map out potential outcomes, assign financial or numerical payoffs, and determine the optimal path using Expected Value (EV) optimization.
 
 
 
